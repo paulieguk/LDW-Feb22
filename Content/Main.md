@@ -25,7 +25,7 @@ Press **Next** to continue
 @lab.Activity(Question1)
 1. [] If so list one or two here: @lab.TextBox(apps)
 1. [] In the Search box type **ubuntu** and select the Ubuntu Official image.
-!IMAGE[ak02lpo7.jpg](ak02lpo7.jpg)
+image/ak02lpo7.jpg
 1. [] Scroll down the details page and notice he information provided.  Especially focues on the version list, we will use this later.
 
 ### Review Container Options
