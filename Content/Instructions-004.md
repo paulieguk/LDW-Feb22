@@ -1,7 +1,3 @@
-### Create a Lab Profile to host the Container image
-
----
-
 1. [] From the Admin page select **Create Lab Profile** from the Lab Profile tile
 1. [] From the top right select **+ Create Custom Environment**
 1. [] Complete the Lab Profile as follows:
