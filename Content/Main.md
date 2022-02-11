@@ -162,7 +162,7 @@ Press **Next** to continue
 
 ===
 
-### Investigating a Web connection container image
+### Investigating a Web connection Container image
 
 The previous lab you created a container and connected to the container using a bash shell.  This time you will create a new container image this time connecting via a Web connection. nginx is a light weight web server and you will be using a container that has that contains that WebServer
 
