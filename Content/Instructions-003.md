@@ -1,6 +1,3 @@
-### Creating Your First Container
-
----
 1. [] From the Admin page select **Container Images** from the Containers tile
 1. [] Click **+ Create Container Images** from the top right corner
 !IMAGE[tewgbvaf.jpg](images/tewgbvaf.jpg)
