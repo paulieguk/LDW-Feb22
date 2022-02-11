@@ -8,6 +8,7 @@ Please enter your initials here @lab.TextBox(initials)
 Press **Next** to continue
 
 ---
+
 ===
 
 ## Lab - 1 Building your first container lab profile
