@@ -1,14 +1,3 @@
-
-## Lab - 1 Building your first container lab profile
-
-Press **Next** to continue
-
----
-===
-
-### Investigating the Docker Hub
-
----
 1. [] Click the link to visit the [Docker Hub](https://hub.docker.com/ "Optional link title")  
 1. [] Using the search box !IMAGE[Docker Hub Search](images/6xvbrzqv.jpg) and search for applications or operating systems that get used in you company.
 @lab.Activity(Question1)
