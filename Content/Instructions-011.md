@@ -1,4 +1,3 @@
-
 >In this section the Container image needs to be reconfigured for Web display and the LCA needs to be created.
 
 1. [] Switch back to the Lab Profile Tab (**@lab.Variable(initials): LP - @lab.Variable(initials) - nginx:1.20.2**).  Refresh the page (by right clicking the page and selecting refresh).  Notice the Container Image name has changed to the new Image you just created.  **paulie/@lab.Variable(initials)-nginx:1.0.0**
