@@ -21,7 +21,7 @@ Press **Next** to continue
 
 ---
 1. [] Click the link to visit the [Docker Hub](https://hub.docker.com/ "Optional link title")  
-1. [] Using the search box !IMAGE[6xvbrzqv.jpg](6xvbrzqv.jpg) and search for applications or operating systems that get used in you company.
+1. [] Using the search box !IMAGE[Docker Hub Search](images/6xvbrzqv.jpg) and search for applications or operating systems that get used in you company.
 @lab.Activity(Question1)
 1. [] If so list one or two here: @lab.TextBox(apps)
 1. [] In the Search box type **ubuntu** and select the Ubuntu Official image.
