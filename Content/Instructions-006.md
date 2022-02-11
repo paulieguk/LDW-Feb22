@@ -4,7 +4,6 @@ The previous lab you created a container and connected to the container using a 
 1. [] Click **+ Create Container Images** from the top right corner
 
 !IMAGE[tewgbvaf.jpg](images/tewgbvaf.jpg)
-
 1. [] Complete the form as follows and save the Container Image:
 
 | Field | Value |
