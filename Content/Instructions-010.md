@@ -1,5 +1,3 @@
-### Modifying the Container
-
 >You will replace the default web site with a custom website and configure the Container to start the web server automatically.
 
 1. [] To download the Website use the following command: ++curl -O https://ldwstorage.blob.core.windows.net/feb22/zoo.tar++ this will take upto 20 seconds.
