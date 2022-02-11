@@ -14,4 +14,4 @@
 
 >[!KNOWLEDGE] This could be a web application that you wish to educate your users on and loads faster and potentially costs less than traditonal VM solutions.  Some Examples could be Ethical Web Hacking (Dam Vulnerable Web App), Programing by using Visual Studio Code in a browser or Wordpress.
 
-- Let the instructor kow you have finished.
+- Let the instructor know you have finished.
