@@ -1,6 +1,6 @@
 1. [] Edit the Lab Profile.
 1. [] Create a Life Cycle Action with the following settings
-    - Name: +++Start Web Server+++
+    - Name: ++Start Web Server++
     - Action: Execute Script in Container
     - Event: First Displayable
     - Blocking: Selected
