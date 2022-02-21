@@ -1,4 +1,4 @@
-1. [] From the Lab Profile page scroll down nd click the **nginx:1.20.2** Container link
+1. [] From the Lab Profile page scroll down and click the **nginx:1.20.2** Container link
 1. [] Edit the container image and make the following changes:
     - In the Command dialog box enter ++bash++
     - Remove **80** from the exposed ports dialog box
