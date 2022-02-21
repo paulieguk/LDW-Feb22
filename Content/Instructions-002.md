@@ -26,7 +26,7 @@
 1. [] Review the [Skillable Help](https://docs.learnondemandsystems.com/lod/container-registries.md?appid=lod), focusing on the following:
     - Address
     - Allow Push
-    - Admin User Account
+    - Use Admin Account
 1. [] Click **Cancel** (bottom left) or **Details** (top right).  We will use a prebuilt Registry
 
 Press **Next** to continue
