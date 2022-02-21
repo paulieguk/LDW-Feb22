@@ -10,7 +10,7 @@
 
 1. [] From the Burger menu select **Save -> Commit changes and update this Lab Profile**
 1. [] Complete the form as follows:
-    - Note: Installed Zoo Website
+    - Note: ++Installed Zoo Website++
     - Registry: ldw-Feb2022
     - Image Name: paulie/@lab.Variable(initials)-nginx:1.0.0
 1. [] Click OK
