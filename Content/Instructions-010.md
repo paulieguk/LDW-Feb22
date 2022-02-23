@@ -12,7 +12,7 @@
 1. [] Complete the form as follows:
     - Note: ++Installed Zoo Website++
     - Registry: ldw-Feb2022
-    - Image Name: <div style="text-transform:lowercase" markdown="1">paulie/@lab.Variable(initials)-nginx:1.0.0</div>
+    - Image Name: <p style="text-transform:lowercase" markdown="1">paulie/@lab.Variable(initials)-nginx:1.0.0</p>
 
 >[!Alert] The image name must be all lowercase
 
