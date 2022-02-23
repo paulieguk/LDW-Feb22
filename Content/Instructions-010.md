@@ -13,6 +13,7 @@
     - Note: ++Installed Zoo Website++
     - Registry: ldw-Feb2022
     - Image Name: paulie/@lab.Variable(initials)-nginx:1.0.0
+    >[!Alert] The image name must be all lowercase
 1. [] Click OK
 
 >The container should save within a minute or two.  Having updated the container you will use a Life Cycle Action to ensure that the Web Server always starts, this could also be done by editing the container configuration.  The reason for using an LCA is to build on the learning from Decembers LDW.
