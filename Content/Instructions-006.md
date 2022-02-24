@@ -1,4 +1,4 @@
-The previous lab you created a container and connected to the container using a bash shell.  This time you will create a new container image this time connecting via a Web connection. nginx is a light weight web server and you will be using a container that has that contains that WebServer
+The previous lab you created a container and connected to the container using a bash shell.  This time you will create a new container image this time connecting via a Web connection. nginx is a light weight web server and you will be using a container that contains the WebServer
 
 1. [] From the Admin page select **Container Images** from the Containers tile
 1. [] Click **+ Create Container Images** from the top right corner
