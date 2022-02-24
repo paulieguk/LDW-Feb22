@@ -18,7 +18,7 @@ Complete the following fields:
 
 **Networks page**
 
-1. [] Add a network all the defaults should be correct:
+1. [] Add a network, accepting all the defaults:
 
 !IMAGE[rlibjdkb.jpg](images/rlibjdkb.jpg)
 
