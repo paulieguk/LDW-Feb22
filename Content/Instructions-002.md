@@ -6,7 +6,7 @@
 
 !IMAGE[Search Results](images/ak02lpo7.jpg)
 
-1. [] Scroll down the details page and notice he information provided.  Especially focues on the version list, we will use this later.
+1. [] Scroll down the details page and notice he information provided.  Especially focuses on the version list, we will use this later.
 
 ### Review Container Options
 
