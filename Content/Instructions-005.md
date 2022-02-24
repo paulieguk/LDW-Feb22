@@ -6,7 +6,7 @@
 @lab.TextBox(ubuntulatest)
 
 1. [] End the Lab
-1. [] From the Lab Profile page open the scroll down and click on the Container **ubuntu:latest**
+1. [] From the Lab Profile page scroll down and click on the Container **ubuntu:latest**
 1. [] Edit the Container image
 1. [] Change the Name from **ubuntu:latest** to ++ubuntu:16.04++
 
