@@ -6,3 +6,5 @@
 Please enter your initials here @lab.TextBox(initials)
 
 Press **Next** to continue
+
+@lab.Activity(Question1)
